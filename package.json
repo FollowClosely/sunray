@@ -1,0 +1,17 @@
+{
+  "name": "new-project",
+  "version": "0.0.2",
+  "description": "jarrett’s new project boilerplate w/ gulp (dev only, no production tasks created yet)",
+  "main": "gulpfile.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "andrew jarrett ahrjarrett@gmail.com https://followclosely.com",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "node-bourbon": "^4.2.8"
+  }
+}
